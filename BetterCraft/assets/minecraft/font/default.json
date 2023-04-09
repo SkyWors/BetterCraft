@@ -1,0 +1,637 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:item/tooltip/attributes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDCFD\uDB80\uDCFE\uDB80\uDCFF\uDB80\uDD00\uDB80\uDD01\uDB80\uDD02\uDB80\uDD03\uDB80\uDD04\uDB80\uDD05\uDB80\uDD06",
+            "\uDB80\uDD07\uDB80\uDD08\uDB80\uDD09\uDB80\uDD0A\uDB80\uDD0B\uDB80\uDD0C\uDB80\uDD0D\uDB80\uDD0E\uDB80\uDD0F\uDB80\uDD10"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/tooltip/enchantments.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDD25\uDB80\uDD26\uDB80\uDD27\uDB80\uDD28\uDB80\uDD29\uDB80\uDD2A\uDB80\uDD2B\uDB80\uDD2C",
+            "\uDB80\uDD2D\uDB80\uDD2E\uDB80\uDD2F\uDB80\uDD30\uDB80\uDD31\uDB80\uDD32\uDB80\uDD33\uDB80\uDD34"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:item/tooltip/pattern.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+            "\uDB80\uDD45\uDB80\uDD46\uDB80\uDD47\uDB80\uDD48\uDB80\uDD49\uDB80\uDD4A"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:chat/gamemodes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDE0B\uDB80\uDE0C\uDB80\uDE0D\uDB80\uDE0E\uDB80\uDE0F"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:gui/anvil_enchantingtable.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDE10\uDB80\uDE11\uDB80\uDE12\uDB80\uDE13"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/tooltip/levels.png",
+         "ascent": 15,
+         "height": 24,
+         "chars": [
+            "\uDB80\uDE28\uDB80\uDE29\uDB80\uDE2A\uDB80\uDE2B\uDB80\uDE2C",
+			"\uDB80\uDE2D\uDB80\uDE2E\uDB80\uDE2F\uDB80\uDE30\uDB80\uDE31"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
+        }			
+    ]
+}

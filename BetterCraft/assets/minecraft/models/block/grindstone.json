@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"particle": "block/grindstone",
+		"block": "block/grindstone",
+		"leg": "block/dark_oak_log"
+	},
+	"elements": [
+		{
+			"name": "Leg east",
+			"from": [12.25, 0, 6],
+			"to": [13.75, 7, 10],
+			"faces": {
+				"north": {"uv": [8.01, 9.01, 9.49, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"east": {"uv": [6.01, 9.01, 9.99, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"south": {"uv": [6.51, 9.01, 7.99, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"west": {"uv": [9.99, 9.01, 6.01, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"down": {"uv": [6.01, 14.01, 9.99, 15.49], "rotation": 90, "texture": "#leg", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Leg west",
+			"from": [2.25, 0, 6],
+			"to": [3.75, 7, 10],
+			"faces": {
+				"north": {"uv": [6.51, 9.01, 7.99, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"east": {"uv": [9.99, 9.01, 6.01, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"south": {"uv": [8.01, 9.01, 9.49, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"west": {"uv": [6.01, 9.01, 9.99, 15.99], "texture": "#leg", "cullface": "Know2Good"},
+				"down": {"uv": [6.01, 14.01, 9.99, 15.49], "rotation": 270, "texture": "#leg", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Pivot east",
+			"from": [2, 7, 5],
+			"to": [4, 13, 11],
+			"faces": {
+				"north": {"uv": [7.99, 10.01, 6.01, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [1.99, 10.01, 0.01, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [6.99, 10.01, 1.01, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [9.99, 10.01, 8.01, 15.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [11.99, 10.01, 10.01, 15.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Pivot west",
+			"from": [12, 7, 5],
+			"to": [14, 13, 11],
+			"faces": {
+				"north": {"uv": [6.01, 10.01, 7.99, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"east": {"uv": [1.01, 10.01, 6.99, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [0.01, 10.01, 1.99, 15.99], "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [8.01, 10.01, 9.99, 15.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [10.01, 10.01, 11.99, 15.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone top",
+			"from": [5, 15, 3],
+			"to": [11, 16, 13],
+			"faces": {
+				"north": {"uv": [10.01, 0.01, 15.99, 0.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"east": {"uv": [15.01, 0.01, 15.99, 9.99], "rotation": 90, "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [10.01, 9.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [10.01, 0.01, 10.99, 9.99], "rotation": 270, "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [10.01, 0.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone north",
+			"from": [5, 5, 2],
+			"to": [11, 15, 3],
+			"faces": {
+				"north": {"uv": [10.01, 9.99, 15.99, 0.01], "texture": "#block", "cullface": "Know2Good"},
+				"east": {"uv": [10.01, 0.01, 10.99, 9.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [15.01, 0.01, 15.99, 9.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [10.01, 9.01, 15.99, 9.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [10.01, 0.01, 15.99, 0.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone east",
+			"from": [11, 5, 3],
+			"to": [12, 15, 13],
+			"faces": {
+				"north": {"uv": [9.01, 0.01, 9.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"east": {"uv": [0.01, 0.01, 9.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [0.01, 0.01, 0.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [0.01, 0.01, 9.99, 0.99], "rotation": 270, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [0.01, 9.01, 9.99, 9.99], "rotation": 90, "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone south",
+			"from": [5, 5, 13],
+			"to": [11, 15, 14],
+			"faces": {
+				"east": {"uv": [15.01, 0.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [10.01, 0.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [10.01, 0.01, 10.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [10.01, 0.01, 15.99, 0.99], "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [10.01, 9.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone west",
+			"from": [4, 5, 3],
+			"to": [5, 15, 13],
+			"faces": {
+				"north": {"uv": [9.01, 0.01, 9.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [0.01, 0.01, 0.99, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [9.99, 0.01, 0.01, 9.99], "texture": "#block", "cullface": "Know2Good"},
+				"up": {"uv": [0.01, 0.01, 9.99, 0.99], "rotation": 270, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [0.01, 9.01, 9.99, 9.99], "rotation": 90, "texture": "#block", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Stone bottom",
+			"from": [5, 4, 3],
+			"to": [11, 5, 13],
+			"faces": {
+				"north": {"uv": [10.01, 9.01, 15.99, 9.99], "rotation": 180, "texture": "#block", "cullface": "Know2Good"},
+				"east": {"uv": [15.01, 0.01, 15.99, 9.99], "rotation": 270, "texture": "#block", "cullface": "Know2Good"},
+				"south": {"uv": [10.01, 0.01, 15.99, 0.99], "texture": "#block", "cullface": "Know2Good"},
+				"west": {"uv": [10.01, 0.01, 10.99, 9.99], "rotation": 90, "texture": "#block", "cullface": "Know2Good"},
+				"down": {"uv": [10.01, 0.01, 15.99, 9.99], "texture": "#block", "cullface": "Know2Good"}
+			}
+		}
+	]
+}
