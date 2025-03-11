@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated_custom",
+  "parent": "item/generated_custom",
   "textures": {
-    "layer0": "minecraft:item/spawn_ghast"
+    "layer0": "item/spawn_ghast"
   }
 }
